@@ -8,5 +8,5 @@ This project is an implementation of the **I2C (Inter-Integrated Circuit) protoc
 - Implements **Start**, **Read**, and **Write** conditions.
 
 ## Author
-Your Name (@jayash9658)
+@jayash9658
 
